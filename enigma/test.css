@@ -1,0 +1,15 @@
+
+    @font-face {
+    font-family: enigma;
+    src: url('fonts/GloriaHallelujah-Regular.ttf') format('truetype');
+}
+
+    body{
+    background-image:url(fotos/black.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    color: aliceblue;
+    text-align: center;
+    font-size: xx-large;
+    font-family: "enigma";
+}

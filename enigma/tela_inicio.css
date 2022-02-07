@@ -1,0 +1,65 @@
+body{
+    background-image:url(fotos/1.jpg);
+        background-repeat: no-repeat;
+        background-size: 100% ;
+        background-attachment: fixed;
+        text-align: center;
+        background-color: black;
+        color: white;
+        
+}
+p {text-shadow: -1px -1px black, 2px .5px #333}
+h1 {text-shadow: -1px -1px black, 2px .5px #333}
+h2 {text-shadow: -1px -1px black, 2px .5px #333}
+a {text-shadow: -1px -1px black, 2px .5px #333}
+h3 {text-shadow: -1px -1px black, 2px .5px #333}
+
+
+
+/** inicio do slide **/
+.slide{
+    left: 27.5%;
+
+}
+
+/** fim do slide **/
+
+/** login **/
+
+.login{
+    border: 2px solid rgb(0, 0, 58);
+    border-radius: 10px;
+    background-color: black;
+    cursor: pointer;
+    width: 100px;
+    color: white;
+}
+
+.login:hover{
+    background-color: grey;
+    color: black;
+}
+
+/**fim do login **/
+
+/** foter **/
+
+footer.h4{
+    display: inline;
+}
+
+footer.p{
+    display: inline
+}
+
+footer.a{
+    display: inline;
+}
+
+footer.b{
+    display: inline;
+}
+
+footer.aside{
+    display: inline;
+}
